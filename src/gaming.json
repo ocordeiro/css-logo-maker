@@ -1,1275 +1,1697 @@
 {
-
     "path": "gaming",
-    "images": {
-        "fd12.png": {
-            "image_width": 0,
-            "image_height": 0,
+    "images": [
+        {
+            "name": "fd12.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "m16.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "m16.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "shape22.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "shape22.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "fd2.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "fd2.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "m17.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "m17.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "shape23.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "shape23.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "fd3.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "fd3.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "m18.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "m18.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "shape24.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "shape24.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "be_1.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "be_1.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "fd4.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "fd4.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "m19.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "m19.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "shape25.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "shape25.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "be_10.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "be_10.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "fd5.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "fd5.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "m2.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "m2.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "shape26.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "shape26.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "be_2.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "be_2.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "fd6.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "fd6.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "m20.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "m20.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "shape27.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "shape27.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "be_3.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "be_3.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "fd7.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "fd7.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "m22.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "m22.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "shape28.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "shape28.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "be_4.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "be_4.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "fd8.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "fd8.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "m23.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "m23.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "shape29.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "shape29.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "be_5.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "be_5.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "fd9.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "fd9.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "m24.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "m24.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "shape30.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "shape30.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "be_6.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "be_6.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "fsh1.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "fsh1.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "m25.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "m25.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "show_btn.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "show_btn.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "be_7.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "be_7.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "fsh10.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "fsh10.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "m26.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "m26.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "simple41.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "simple41.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "be_8.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "be_8.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "fsh2.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "fsh2.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "m3.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "m3.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "simple42.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "simple42.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "be_9.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "be_9.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "fsh3.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "fsh3.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "m4.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "m4.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "simple43.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "simple43.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "d1.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "d1.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "fsh4.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "fsh4.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "m5.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "m5.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "simple44.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "simple44.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "d10.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "d10.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "fsh5.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "fsh5.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "m6.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "m6.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "simple45.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "simple45.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "d2.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "d2.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "fsh6.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "fsh6.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "m7.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "m7.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "simple46.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "simple46.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "d3.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "d3.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "fsh7.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "fsh7.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "m8.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "m8.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "simple47.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "simple47.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "d4.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "d4.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "fsh8.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "fsh8.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "m9.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "m9.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "simple48.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "simple48.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "d5.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "d5.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "fsh9.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "fsh9.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "mu1.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "mu1.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "simple49.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "simple49.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "d6.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "d6.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "galary_image.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "galary_image.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "mu10.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "mu10.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "simple50.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "simple50.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "d7.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "d7.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "h16.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "h16.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "mu11.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "mu11.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "simple51.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "simple51.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "d8.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "d8.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "h17.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "h17.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "mu2.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "mu2.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "simple52.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "simple52.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "d9.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "d9.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "h18.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "h18.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "mu3.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "mu3.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "simple53.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "simple53.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "edu1.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "edu1.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "h19.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "h19.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "mu4.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "mu4.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "simple54.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "simple54.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "edu10.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "edu10.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "h20.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "h20.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "mu5.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "mu5.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "simple55.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "simple55.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "edu2.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "edu2.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "h21.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "h21.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "mu6.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "mu6.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "simple56.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "simple56.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "edu3.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "edu3.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "h22.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "h22.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "mu7.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "mu7.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "simple57.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "simple57.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "edu4.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "edu4.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "h23.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "h23.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "mu8.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "mu8.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "simple58.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "simple58.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "edu5.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "edu5.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "h24.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "h24.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "mu9.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "mu9.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "simple59.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "simple59.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "edu6.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "edu6.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "m1.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "m1.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "s11.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "s11.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "simple60.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "simple60.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "edu7.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "edu7.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "m10.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "m10.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "s12.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "s12.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "simple61.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "simple61.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "edu8.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "edu8.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "m11.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "m11.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "s13.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "s13.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "three1.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "three1.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "edu9.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "edu9.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "m12.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "m12.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "s14.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "s14.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "three2.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "three2.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "fd1.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "fd1.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "m13.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "m13.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "s15.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "s15.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "three3.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "three3.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "fd10.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "fd10.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "m14.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "m14.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "save.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "save.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "three4.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "three4.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "fd11.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "fd11.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "m15.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "m15.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "shape21.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "shape21.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
         },
-        "three5.png": {
-            "image_width": 0,
-            "image_height": 0,
+        {
+            "name": "three5.png",
+            "width": 0,
+            "height": 0,
             "text_width": 0,
             "text_height": 0,
             "text_y": 0,
             "text_x": 0,
+            "text_tilt_angle": 0,
+            "text_curvation": 0,
             "tags": ""
-        }
-    }
+        },
+    ]
 }
