@@ -1,0 +1,1275 @@
+{
+
+    "path": "gaming",
+    "images": {
+        "fd12.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "m16.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "shape22.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "fd2.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "m17.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "shape23.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "fd3.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "m18.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "shape24.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "be_1.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "fd4.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "m19.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "shape25.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "be_10.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "fd5.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "m2.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "shape26.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "be_2.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "fd6.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "m20.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "shape27.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "be_3.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "fd7.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "m22.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "shape28.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "be_4.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "fd8.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "m23.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "shape29.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "be_5.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "fd9.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "m24.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "shape30.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "be_6.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "fsh1.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "m25.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "show_btn.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "be_7.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "fsh10.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "m26.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "simple41.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "be_8.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "fsh2.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "m3.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "simple42.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "be_9.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "fsh3.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "m4.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "simple43.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "d1.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "fsh4.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "m5.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "simple44.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "d10.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "fsh5.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "m6.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "simple45.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "d2.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "fsh6.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "m7.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "simple46.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "d3.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "fsh7.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "m8.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "simple47.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "d4.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "fsh8.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "m9.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "simple48.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "d5.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "fsh9.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "mu1.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "simple49.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "d6.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "galary_image.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "mu10.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "simple50.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "d7.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "h16.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "mu11.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "simple51.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "d8.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "h17.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "mu2.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "simple52.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "d9.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "h18.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "mu3.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "simple53.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "edu1.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "h19.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "mu4.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "simple54.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "edu10.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "h20.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "mu5.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "simple55.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "edu2.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "h21.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "mu6.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "simple56.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "edu3.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "h22.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "mu7.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "simple57.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "edu4.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "h23.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "mu8.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "simple58.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "edu5.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "h24.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "mu9.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "simple59.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "edu6.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "m1.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "s11.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "simple60.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "edu7.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "m10.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "s12.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "simple61.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "edu8.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "m11.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "s13.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "three1.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "edu9.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "m12.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "s14.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "three2.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "fd1.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "m13.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "s15.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "three3.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "fd10.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "m14.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "save.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "three4.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "fd11.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "m15.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "shape21.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        },
+        "three5.png": {
+            "image_width": 0,
+            "image_height": 0,
+            "text_width": 0,
+            "text_height": 0,
+            "text_y": 0,
+            "text_x": 0,
+            "tags": ""
+        }
+    }
+}
